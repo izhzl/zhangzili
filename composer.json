@@ -1,0 +1,13 @@
+{
+    "name": "izhzl/zhangzili",
+    "description": "这是一个测试",
+    "type": "MIT",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "张自立",
+            "email": "zhangzili@hoge.cn"
+        }
+    ],
+    "require": {}
+}
